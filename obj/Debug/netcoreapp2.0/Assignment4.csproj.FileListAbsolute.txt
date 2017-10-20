@@ -8,3 +8,4 @@ C:\Users\rasmu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Assi
 C:\Users\rasmu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Assignment4.pdb
 C:\Users\rasmu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Assignment4.dll
 C:\Users\rasmu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Assignment4.pdb
+C:\Users\rasmu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Assignment4.csprojResolveAssemblyReference.cache
